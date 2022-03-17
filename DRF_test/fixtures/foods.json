@@ -1,0 +1,164 @@
+[
+  {
+    "model": "foods.food",
+    "pk": 1,
+    "fields": {
+      "internal_code":200,
+      "code":2,
+      "name_ru":"Кола",
+      "description_ru":"Кола",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "is_publish": true,
+      "cost":"123.00",
+      "category": 1,
+      "additional":[]
+    }
+  },
+  {
+    "model": "foods.food",
+    "pk": 2,
+    "fields": {
+      "internal_code":300,
+      "code":3,
+      "name_ru":"Спрайт",
+      "description_ru":"Спрайт",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "is_publish": true,
+      "cost":"123.00",
+      "category": 1,
+      "additional":[]
+    }
+  },
+  {
+    "model": "foods.food",
+    "pk": 3,
+    "fields": {
+      "internal_code":400,
+      "code":4,
+      "name_ru":"Байкал",
+      "description_ru":"Байкал",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "is_publish": true,
+      "cost":"123.00",
+      "category": 1,
+      "additional":[]
+    }
+  },
+  {
+    "model": "foods.food",
+    "pk": 4,
+    "fields": {
+      "internal_code":500,
+      "code":4,
+      "name_ru":"Яблочный штрудель",
+      "description_ru":"Яблочный штрудель",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "cost":"250.00",
+      "is_publish": true,
+      "category": 2,
+      "additional":[]
+    }
+  },
+  {
+    "model": "foods.food",
+    "pk": 5,
+    "fields": {
+      "internal_code":600,
+      "code":4,
+      "name_ru":"Булочка с маком",
+      "description_ru":"Булочка с маком",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "is_publish": true,
+      "cost":"100.00",
+      "category": 2,
+      "additional":[]
+    }
+  },
+  {
+    "model": "foods.food",
+    "pk": 6,
+    "fields": {
+      "internal_code":700,
+      "code":4,
+      "name_ru":"Крабы",
+      "description_ru":"Крабы",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "is_publish": false,
+      "cost":"100.00",
+      "category": 3,
+      "additional":[]
+    }
+  },
+  {
+    "model": "foods.food",
+    "pk": 7,
+    "fields": {
+      "internal_code":800,
+      "code":4,
+      "name_ru":"Креветки",
+      "description_ru":"Креветки",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "is_publish": true,
+      "cost":"100.00",
+      "category": 3,
+      "additional":[]
+    }
+  },
+  {
+    "model": "foods.food",
+    "pk": 8,
+    "fields": {
+      "internal_code":900,
+      "code":4,
+      "name_ru":"Новый объект",
+      "description_ru":"Новый объект",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "is_publish": false,
+      "cost":"100.00",
+      "category": 4,
+      "additional":[]
+    }
+  },
+  {
+    "model": "foods.food",
+    "pk": 9,
+    "fields": {
+      "internal_code":910,
+      "code":4,
+      "name_ru":"Новый объект",
+      "description_ru":"Новый объект",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "is_publish": false,
+      "cost":"100.00",
+      "category": 4,
+      "additional":[]
+    }
+  }
+]

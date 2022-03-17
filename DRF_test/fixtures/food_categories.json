@@ -1,0 +1,52 @@
+[
+  {
+    "model": "foods.foodcategory",
+    "pk": 1,
+    "fields": {
+      "name_ru": "Напитки",
+      "name_en": null,
+      "name_ch": null,
+      "order_id": 10
+    }
+  },
+  {
+    "model": "foods.foodcategory",
+    "pk": 2,
+    "fields": {
+      "name_ru": "Выпечка",
+      "name_en": null,
+      "name_ch": null,
+      "order_id": 20
+    }
+  },
+  {
+    "model": "foods.foodcategory",
+    "pk": 3,
+    "fields": {
+      "name_ru": "Морепродукты",
+      "name_en": null,
+      "name_ch": null,
+      "order_id": 30
+    }
+  },
+  {
+    "model": "foods.foodcategory",
+    "pk": 4,
+    "fields": {
+      "name_ru": "Новый раздел",
+      "name_en": null,
+      "name_ch": null,
+      "order_id": 30
+    }
+  },
+  {
+    "model": "foods.foodcategory",
+    "pk": 5,
+    "fields": {
+      "name_ru": "что-то еще",
+      "name_en": null,
+      "name_ch": null,
+      "order_id": 30
+    }
+  }
+]
