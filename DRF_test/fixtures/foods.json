@@ -1,7 +1,7 @@
 [
   {
     "model": "foods.food",
-    "pk": 1,
+    "pk": 2,
     "fields": {
       "internal_code":200,
       "code":2,
@@ -17,9 +17,29 @@
       "additional":[]
     }
   },
+    {
+    "model": "foods.food",
+    "pk": 1,
+    "fields": {
+      "internal_code":100,
+      "code":2,
+      "name_ru":"Чай",
+      "description_ru":"Чай",
+      "description_en":null,
+      "description_ch":null,
+      "is_vegan":false,
+      "is_special":false,
+      "is_publish": true,
+      "cost":"123.00",
+      "category": 1,
+      "additional":[
+        2
+      ]
+    }
+  },
   {
     "model": "foods.food",
-    "pk": 2,
+    "pk": 3,
     "fields": {
       "internal_code":300,
       "code":3,
@@ -37,7 +57,7 @@
   },
   {
     "model": "foods.food",
-    "pk": 3,
+    "pk": 4,
     "fields": {
       "internal_code":400,
       "code":4,
@@ -55,7 +75,7 @@
   },
   {
     "model": "foods.food",
-    "pk": 4,
+    "pk": 5,
     "fields": {
       "internal_code":500,
       "code":4,
@@ -73,7 +93,7 @@
   },
   {
     "model": "foods.food",
-    "pk": 5,
+    "pk": 6,
     "fields": {
       "internal_code":600,
       "code":4,
@@ -91,7 +111,7 @@
   },
   {
     "model": "foods.food",
-    "pk": 6,
+    "pk": 7,
     "fields": {
       "internal_code":700,
       "code":4,
@@ -109,7 +129,7 @@
   },
   {
     "model": "foods.food",
-    "pk": 7,
+    "pk": 8,
     "fields": {
       "internal_code":800,
       "code":4,
@@ -127,7 +147,7 @@
   },
   {
     "model": "foods.food",
-    "pk": 8,
+    "pk": 9,
     "fields": {
       "internal_code":900,
       "code":4,
@@ -145,7 +165,7 @@
   },
   {
     "model": "foods.food",
-    "pk": 9,
+    "pk": 10,
     "fields": {
       "internal_code":910,
       "code":4,
